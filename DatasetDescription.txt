@@ -1,0 +1,2 @@
+The dataset came from the social media website Reddit.com. I pulled the comments from the top 100 posts from the subreddits:
+'Politics', 'News', and 'Worldnews' using the "praw" library in python.
